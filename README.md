@@ -46,5 +46,8 @@ A collection of **20 essential PHP programs** commonly asked in technical interv
 1. Install PHP on your system (version 8+ recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/php-technical-interview-programs.git
+   git clone https://github.com/Abhinavsathyann/php-technical-interview-programs.git
    cd php-technical-interview-programs/programs
+3. Run any program:
+   php factorial.php
+
