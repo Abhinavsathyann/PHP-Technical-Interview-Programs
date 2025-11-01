@@ -49,5 +49,7 @@ A collection of **20 essential PHP programs** commonly asked in technical interv
    git clone https://github.com/Abhinavsathyann/php-technical-interview-programs.git
    cd php-technical-interview-programs/programs
 3. Run any program:
+      ```bash
    php factorial.php
+
 
